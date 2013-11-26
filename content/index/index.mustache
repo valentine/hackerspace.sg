@@ -1,0 +1,24 @@
+{{> header }}
+
+<img class=banner src="/imgs/banner.png">
+
+<p><a href=/location/>Location</a>: 344B King George’s Avenue, Singapore, 208576</p>
+
+<h2>Webcam</h2>
+
+<p class="livecam"></p>
+
+<h2>Events</h2>
+
+{{#events}}
+
+{{#feed.entry}}
+<p><strong>{{title.$t}}</strong>
+{{#gd$when}}
+<time>{{startTime}}</time></p>
+{{/gd$when}}
+{{/feed.entry}}
+
+{{/events}}
+
+{{> footer }}
