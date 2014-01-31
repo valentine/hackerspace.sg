@@ -32,15 +32,8 @@
 <h2>Upcoming Events</h2>
 
 {{#events}}
-<p>
-{{#URL}}
-<strong><a href="{{URL}}">{{Name}}</a></strong>
-{{/URL}}
-{{^URL}}
-<strong>{{Name}}</strong>
-{{/URL}}
-<time dateTime="{{#datetime}}{{When}}{{/datetime}}">{{#datetime}}{{When}}{{/datetime}}</time>
-</p>
+<p><strong>{{Name}}</strong>
+on {{#date}}{{When}}{{/date}} at {{#time}}{{When}}{{/time}}</p>
 {{/events}}
 
 <h2>Tweets</h2>
@@ -48,17 +41,5 @@
 <ul>
 {{{tweets}}}
 </ul>
-
-<script src="/js/moment.min.js"></script>
-<script>
-(function(moment){
-	var els = document.getElementsByTagName('time');
-	for (var i = 0, l = els.length; i < l; i++) {
-		els[i].innerHTML = moment(els[i].getAttribute('datetime')).fromNow();
-		}
-})(moment);
-</script>
-
-
 
 {{> footer }}
