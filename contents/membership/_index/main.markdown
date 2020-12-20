@@ -3,39 +3,31 @@
 ## Membership Tiers
 <img src="/imgs/membership_1.jpg" class="img-responsive center-block" style="width:50%" >
 
-### Patron &mdash; $1337 SGD monthly
+### Patron &mdash; $1,337 SGD/month
 
-24-7 access. A dedicated desk for co-working. You can keep your stuff at the desk.  We'll
-label a desk with your name, in honour of your contribution. Ultra Premium listing in the contributors page* with multiple links
+24/7 access. A dedicated desk for co-working. You can keep your stuff at your desk. We'll label a desk with your name, in honour of your contribution. Ultra Premium listing in the contributors page* with multiple links.
 
-### Sponsor &mdash; $512 SGD monthly
+### Dedicated Member &mdash; $512 SGD/month
 
-24-7 access. A dedicated desk for co-working. You can keep your stuff at the desk.  We'll
-label a desk with your name, in honour of your contribution. Premium listing in the contributors page* with multiple links.
+24/7 access. A dedicated desk for co-working. You can keep your stuff at your desk. We'll label a desk with your name, in honour of your contribution. Premium listing in the contributors page* with multiple links.
 
-### Resident &mdash; $256 SGD monthly
+### Regular Member &mdash; $256 SGD/month
 
-24-7 access. Priority hotdesking whenever you drop in. (oversubscription may occur at
-peak hours, we aim for 90% availability). You cannot keep your stuff at the
-desk. Standard listing in the contributors page* with multiple links.
+24/7 access. Unlimited use of facilities. You cannot keep your stuff on a desk when you leave for the day. All the other benefits of Community membership. Standard listing in the contributors page* with multiple links.
 
-### Regular Member &mdash; $128 SGD monthly
+### Community Member &mdash; $128 SGD/month
 
-24-7 access.  Hotdesking. Hang out on the sofas. Keep your stuff in a locker (rental applies).
-Use the workbench. Borrow books from our library. Keep your toys and tools onsite. You cannot keep your stuff at the
-desk. Standard listing in the contributors page* with up to 3 links.
+24/7 access. Occasional use of facilities (~9 hours a week); you can spend more time at the premises, but we ask that you pledge 0.5 hours for every 8 additional hours towards HackerspaceSG maintenance duties. You cannot keep your stuff on a desk when you leave for the day. Keep your stuff in a locker or designated storage box (additional subscription applies). Use the workbench. Borrow books from our library. Standard listing in the contributors page* with up to 3 links.
 
-### Associate Member &mdash; $64 SGD monthly
+### Concessionary Member &mdash; $64 SGD/month
 
-24-7 access. If you are a student, NSF or a starving hacker, all the benefits of regular
-membership at a reduced rate. Also, if you really want to support the space, but
-don't come by regularly. Standard listing in the contributors page* with up to 2 links.
+24/7 access. If you are a student, NSF, or a starving hacker (earning under ~$2,500/month), all the benefits of Community membership at a reduced rate. Please pledge 1 hour for every 8 hours spent at the premises towards HackerspaceSG maintenance duties. Standard listing in the contributors page* with up to 2 links.
 
-### Honorary Member &mdash; $32 SGD monthly
+### Honorary Member &mdash; $32 SGD/month
 
 A listing on our contributors page* with up to 2 links of your choice.
 
-### Friend of HackerspaceSG &mdash; $16 SGD monthly
+### Friend of HackerspaceSG &mdash; $16 SGD/month
 
 A listing on our contributors page* with one link of your choice.
 
@@ -78,9 +70,9 @@ subscription.
 <input type="hidden" name="hosted_button_id" value="6YY74YT8UKT9E">
 <table>
 <tr><td><input type="hidden" name="on0" value="HackerspaceSG monthly membership">HackerspaceSG monthly membership</td></tr><tr><td><select name="os0">
-	<option value="Regular">Regular : $128.00 SGD - monthly</option>
-	<option value="Associate">Associate : $64.00 SGD - monthly</option>
-	<option value="Resident">Resident : $256.00 SGD - monthly</option>
+	<option value="Resident">Regular : $256.00 SGD - monthly</option>
+	<option value="Regular">Community : $128.00 SGD - monthly</option>
+	<option value="Associate">Concessionary : $64.00 SGD - monthly</option>
 	<option value="Sponsor">Sponsor : $512.00 SGD - monthly</option>
 	<option value="Patron">Patron : $1,337.00 SGD - monthly</option>
 	<option value="Honorary">Honorary : $32.00 SGD - monthly</option>
@@ -112,7 +104,7 @@ If you would like to visit HackerspaceSG but do not know a member, please let us
 
 Members are invited to leave their stuff at the Hackerspace, with the understanding that other members and guests may [use, handle, break and discard them](http://hackerspaces.org/wiki/The_Old_Hardware_Pattern). This includes, but is not limited to: computers, keyboards, mice, chargers, furniture, and toys. Please label your items.
 
-Please clear all personal belongings from your desk when you leave Hackerspace for the day. (This doesn't apply to the desks and personal belongings of members who are subscribed to the Sponsor tier.) Please be considerate to fellow members and guests.
+Please clear all personal belongings from your desk when you leave Hackerspace for the day. (This doesn't apply to the desks and personal belongings of members who are subscribed to the Dedicated tier.) Please be considerate to fellow members and guests.
 
 ___
 
